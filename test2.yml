@@ -1,0 +1,10 @@
+Version : 2
+test_item :
+  - aaaa
+  - bbbb
+  - cccc
+test_item2 : 
+  inner_item :
+  - a
+  - b
+  - c
